@@ -1,1 +1,2 @@
 Adding new file
+Try to adding commit in the same steep
